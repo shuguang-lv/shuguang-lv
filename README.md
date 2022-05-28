@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there, I'm Shuguang LYU (Desmond)
 
 <!--
 **shuguang-lv/shuguang-lv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:man_technologist: **My Blog**: [desmond-lsg.vercel.app](https://desmond-lsg.vercel.app/)
+
+---
+
+![Desmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuguang-lv&count_private=true&show_icons=true&theme=dark)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuguang-lv&layout=compact)](https://github.com/shuguang-lv/github-readme-stats)
