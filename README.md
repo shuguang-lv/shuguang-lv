@@ -1,4 +1,3 @@
-### 👋 Hi there, I'm Shuguang LYU (Desmond)
 
 <!--
 **shuguang-lv/shuguang-lv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👋 Hi there, I'm Shuguang LYU (Desmond)
+
+Love web programming, graphic design and guitar
+
+:email: **My Email**: [shuguang-lv@outlook.com](mailto://shuguang-lv@outlook.com)
 
 :man_technologist: **My Blog**: [desmond-lsg.vercel.app](https://desmond-lsg.vercel.app/)
 
