@@ -26,4 +26,4 @@ Love web programming, graphic design and guitar
 
 ![Desmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuguang-lv&count_private=true&show_icons=true&theme=dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuguang-lv&layout=compact)](https://github.com/shuguang-lv/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuguang-lv&layout=compact&theme=dark)](https://github.com/shuguang-lv/github-readme-stats)
