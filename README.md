@@ -20,7 +20,7 @@ Love web programming, graphic design and guitar
 
 :email: **My Email**: [shuguang-lv@outlook.com](mailto://shuguang-lv@outlook.com)
 
-:man_technologist: **My Blog**: https://www.wolai.com/desmond-lsg/wnPyBPF7iSxCrwjksFYvmY
+:man_technologist: **My Blog**: [https://www.wolai.com/desmond-lsg/wnPyBPF7iSxCrwjksFYvmY](https://desmond-lsg.tech)
 
 ---
 
