@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there, I'm Shuguang LYU (Desmond)
 
-Love web programming, graphic design and guitar
+I'm an introverted web programmer with a passion for creating intuitive UI/UX designs and compelling graphics. When I'm not coding, you might find me strumming my guitar or catching up on my favorite animated shows. I also enjoy jogging regularly and exploring topics related to philosophy and psychology in my free time.
 
 :email: **My Email**: [shuguang-lv@outlook.com](mailto://shuguang-lv@outlook.com)
 
